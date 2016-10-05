@@ -69,7 +69,7 @@ public class OperationDependentDetailsLib {
 			Reporter.log("Dependent Already Exist...!");
 			// Assert.fail();
 			Assert.assertEquals(landingPageObject.getTosterMessage(),
-					"Record Exits with same Relationship Type", "Request Already Exist...!");
+					"Travel Dependant Updated", "Request Already Exist...!");
 		}
 		
 	}

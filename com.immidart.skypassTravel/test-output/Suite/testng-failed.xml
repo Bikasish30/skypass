@@ -20,7 +20,6 @@
           <include name="afterTest"/>
           <include name="beforeTest"/>
           <include name="beforeTestMethod"/>
-          <include name="createManualRequestTest"/>
           <include name="afterTestMethod"/>
         </methods>
       </class> <!-- com.immidart.skypassTravel.ManualRequestTest -->

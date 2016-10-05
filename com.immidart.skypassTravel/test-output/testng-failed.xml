@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
     <classes>
+      <class name="com.immidart.skypassTravel.OperationTrackerTest">
+        <methods>
+          <include name="OperationRequestBasicDetailsTest"/>
+          <include name="operationTrackerDependentDetailsTest"/>
+          <include name="operationTrackerPassengerDetailsTest"/>
+          <include name="OperationItineraryDetailsTest"/>
+          <include name="beforeClass"/>
+          <include name="operationTrackerSearchTest"/>
+          <include name="afterClass"/>
+          <include name="operationTrackerProjectDetailsTest"/>
+        </methods>
+      </class> <!-- com.immidart.skypassTravel.OperationTrackerTest -->
       <class name="com.immidart.skypassTravel.ManualRequestTest">
         <methods>
           <include name="afterTest"/>
           <include name="beforeTest"/>
           <include name="beforeTestMethod"/>
-          <include name="createManualRequestTest"/>
           <include name="afterTestMethod"/>
         </methods>
       </class> <!-- com.immidart.skypassTravel.ManualRequestTest -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

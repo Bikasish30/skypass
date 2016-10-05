@@ -10,6 +10,9 @@ public class OperationTrackerItineraryDetails {
 	@FindBy(xpath="//a[contains(text(),'Itinerary Details')]")
 	private WebElement itineraryDetailsTab;
 
+	@FindBy(xpath="//a[@id='show1']")
+	private WebElement addItineraryLink;
+	
 	@FindBy(xpath="//select[@id='TPassangerNameselect']")
 	private WebElement	travellerNameDropDown;				
 	
@@ -25,6 +28,10 @@ public class OperationTrackerItineraryDetails {
 	}*/
 	
 	GenericClass genericClassObject = new GenericClass();
+	
+	public void clckOnAddItineraryButtonLink(){
+		addItineraryLink.click();
+	}
 	
 	public void clickOnItineraryDetailsTab(){
 		genericClassObject.implicitlyWait(2);

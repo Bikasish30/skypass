@@ -13,11 +13,11 @@ public class OperationItineraryDetailsLib {
 
 	public void OperationItineraryDetails() {
 		OperationTrackerItineraryDetailsObject = PageFactory.initElements(Driver.driver,
-				OperationTrackerItineraryDetails.class);
-		generiClassObject = new GenericClass();
-		
+				OperationTrackerItineraryDetails.class);		
 		OperationTrackerItineraryDetailsObject.clickOnItineraryDetailsTab();
+		OperationTrackerItineraryDetailsObject.clckOnAddItineraryButtonLink();
 		OperationTrackerItineraryDetailsObject.selectTraveller();
+		generiClassObject = new GenericClass();
 		generiClassObject.implicitlyWait(2);
 	}
 

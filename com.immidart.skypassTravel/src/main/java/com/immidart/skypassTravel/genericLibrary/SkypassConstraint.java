@@ -11,8 +11,7 @@ public interface SkypassConstraint {
 	public String browser = "chrome";
 
 	// ExcelData Path
-	public String testDataExcel = "Z:\\Eclipse Neon 11-08-2016\\EclipseNeonWorkSpace"
-			+ "\\com.immidart.skypassTravel\\src\\main\\resources\\SkyPassTestData.xlsx";
+	public String testDataExcel = "Z:\\SkypassReprository\\com.immidart.skypassTravel\\src\\main\\resources\\SkyPassTestData.xlsx";
 
 	// Data Table message
 
