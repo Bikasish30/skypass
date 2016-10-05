@@ -1,0 +1,184 @@
+2016-10-05 11:22:42,675 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:22:42,675 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:22:43,856 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:22:43,856 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:22:43,884 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:22:43,884 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:22:43,886 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:22:43,886 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:23:11,102 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:23:11,102 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:23:11,685 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:23:11,685 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:23:11,688 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:23:11,688 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:23:11,689 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:23:11,689 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:24:24,027 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:24:24,027 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:24:25,214 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:24:25,214 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:24:25,247 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:24:25,247 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:24:25,248 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:24:25,248 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:25:45,927 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:25:45,927 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:25:47,511 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:25:47,511 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:25:47,541 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:25:47,541 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:25:47,542 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:25:47,542 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:29:41,574 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:29:41,574 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:29:42,853 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:29:42,853 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:29:42,883 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:29:42,883 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:29:42,885 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:29:42,885 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:30:04,783 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:30:04,783 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:30:05,418 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:30:05,418 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:30:05,422 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:30:05,422 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:30:05,425 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:30:05,425 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:33:01,456 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:33:01,456 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:33:02,685 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:33:02,685 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:33:02,718 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:33:02,718 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:33:02,719 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:33:02,719 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:33:29,318 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:33:29,318 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:33:29,925 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:33:29,925 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:33:29,927 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:33:29,927 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:33:29,930 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:33:29,930 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:53:29,625 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:53:29,625 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:53:30,896 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:53:30,896 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:53:30,923 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:53:30,923 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:53:30,926 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:53:30,926 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:53:53,004 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:53:53,004 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:53:53,567 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:53:53,567 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:53:53,569 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:53:53,569 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:53:53,570 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:53:53,570 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:57:13,700 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:57:13,700 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:57:14,834 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:57:14,834 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:57:14,864 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:57:14,864 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:57:14,866 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:57:14,866 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 11:57:37,078 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:57:37,078 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 11:57:37,606 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 11:57:37,606 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 11:57:37,608 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:57:37,608 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 11:57:37,611 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 11:57:37,611 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:27:51,645 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:27:51,645 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:27:52,864 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:27:52,864 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:27:52,900 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:27:52,900 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:27:52,903 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:27:52,903 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:28:14,308 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:28:14,308 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:28:15,263 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:28:15,263 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:28:15,265 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:28:15,265 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:28:15,269 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:28:15,269 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:33:27,325 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:33:27,325 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:33:28,526 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:33:28,526 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:33:28,569 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:33:28,569 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:33:28,572 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:33:28,572 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:33:50,331 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:33:50,331 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:33:50,879 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:33:50,879 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:33:50,882 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:33:50,882 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:33:50,883 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:33:50,883 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:35:35,061 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:35:35,061 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:35:36,283 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:35:36,283 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:35:36,321 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:35:36,321 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:35:36,322 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:35:36,322 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:43:52,110 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:43:52,110 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:43:53,350 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:43:53,350 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:43:53,387 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:43:53,387 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:43:53,390 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:43:53,390 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:48:05,595 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:48:05,595 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:48:06,817 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:48:06,817 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:48:06,855 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:48:06,855 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:48:06,857 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:48:06,857 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:55:00,844 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:55:00,844 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:55:02,197 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:55:02,197 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:55:02,234 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:55:02,234 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:55:02,235 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:55:02,235 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:57:10,560 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:57:10,560 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:57:11,625 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:57:11,625 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:57:11,650 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:57:11,650 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:57:11,652 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:57:11,652 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:57:32,662 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:57:32,662 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:57:33,255 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:57:33,255 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:57:33,257 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:57:33,257 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:57:33,261 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:57:33,261 [main] INFO Driver - Opening [CHROME] browser..!
+2016-10-05 12:59:09,036 - io.github.bonigarcia.wdm.BrowserManager -INFO - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:59:09,036 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Reading http://chromedriver.storage.googleapis.com/ to seek [chromedriver]
+2016-10-05 12:59:10,229 - io.github.bonigarcia.wdm.BrowserManager -INFO - Latest version of [chromedriver] is 2.24
+2016-10-05 12:59:10,229 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Latest version of [chromedriver] is 2.24
+2016-10-05 12:59:10,265 - io.github.bonigarcia.wdm.BrowserManager -INFO - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:59:10,265 [main] INFO io.github.bonigarcia.wdm.BrowserManager - Exporting webdriver.chrome.driver as C:\Users\bikasish.b\.m2\repository\webdriver\chromedriver\win32\2.24\chromedriver.exe
+2016-10-05 12:59:10,269 - Driver -INFO - Opening [CHROME] browser..!
+2016-10-05 12:59:10,269 [main] INFO Driver - Opening [CHROME] browser..!

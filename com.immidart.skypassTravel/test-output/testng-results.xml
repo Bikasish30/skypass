@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[OpeningCHROMEbrowse..!]]>
+    </line>
+    <line>
+      <![CDATA[Successfully openedCHROME browser..!]]>
+    </line>
+    <line>
+      <![CDATA[Trying to enter UserName..!]]>
+    </line>
+    <line>
+      <![CDATA[Successfully entered User Name..!]]>
+    </line>
+    <line>
+      <![CDATA[Trying to enter Password..!]]>
+    </line>
+    <line>
+      <![CDATA[Successfully entered Password..!]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Login Button..!]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Manual Request Link..!]]>
+    </line>
+    <line>
+      <![CDATA[Request Already Exist...!]]>
+    </line>
+    <line>
+      <![CDATA[Clicked logout Button..!]]>
+    </line>
+    <line>
+      <![CDATA[Logged Out From Application..!]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23541" started-at="2016-10-05T07:29:08Z" finished-at="2016-10-05T07:29:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23541" started-at="2016-10-05T07:29:08Z" finished-at="2016-10-05T07:29:32Z">
+      <class name="com.immidart.skypassTravel.ManualRequestTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.immidart.skypassTravel.ManualRequestTest@3f49dace]" name="beforeTest" is-config="true" duration-ms="7465" started-at="2016-10-05T12:59:08Z" finished-at="2016-10-05T12:59:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[OpeningCHROMEbrowse..!]]>
+            </line>
+            <line>
+              <![CDATA[Successfully openedCHROME browser..!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:com.immidart.skypassTravel.ManualRequestTest@3f49dace]" name="beforeTestMethod" is-config="true" duration-ms="848" started-at="2016-10-05T12:59:16Z" finished-at="2016-10-05T12:59:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to enter UserName..!]]>
+            </line>
+            <line>
+              <![CDATA[Successfully entered User Name..!]]>
+            </line>
+            <line>
+              <![CDATA[Trying to enter Password..!]]>
+            </line>
+            <line>
+              <![CDATA[Successfully entered Password..!]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Login Button..!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="FAIL" signature="createManualRequestTest()[pri:0, instance:com.immidart.skypassTravel.ManualRequestTest@3f49dace]" name="createManualRequestTest" duration-ms="4851" started-at="2016-10-05T12:59:16Z" finished-at="2016-10-05T12:59:21Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Request Already Exist...! expected [Your Request Created Successfully] but found [This Request Number Already Exists]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Request Already Exist...! expected [Your Request Created Successfully] but found [This Request Number Already Exists]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at com.immidart.skypassTravel.businessLibrary.CreateManualRequestLib.creatManualRequest(CreateManualRequestLib.java:61)
+	at com.immidart.skypassTravel.ManualRequestTest.createManualRequestTest(ManualRequestTest.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1129)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:746)
+	at org.testng.TestRunner.run(TestRunner.java:600)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1264)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1189)
+	at org.testng.TestNG.runSuites(TestNG.java:1104)
+	at org.testng.TestNG.run(TestNG.java:1076)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:126)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:152)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:57)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Manual Request Link..!]]>
+            </line>
+            <line>
+              <![CDATA[Request Already Exist...!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createManualRequestTest -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:com.immidart.skypassTravel.ManualRequestTest@3f49dace]" name="afterTestMethod" is-config="true" duration-ms="7140" started-at="2016-10-05T12:59:22Z" finished-at="2016-10-05T12:59:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked logout Button..!]]>
+            </line>
+            <line>
+              <![CDATA[Logged Out From Application..!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="FAIL" signature="afterTest()[pri:0, instance:com.immidart.skypassTravel.ManualRequestTest@3f49dace]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-10-05T12:59:29Z" finished-at="2016-10-05T12:59:29Z">
+          <exception class="java.lang.UnsatisfiedLinkError">
+            <message>
+              <![CDATA[C:\Users\bikasish.b\AppData\Local\Temp\jna--1799106436\jna5414782872601094223.dll: Access is denied]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.UnsatisfiedLinkError: C:\Users\bikasish.b\AppData\Local\Temp\jna--1799106436\jna5414782872601094223.dll: Access is denied
+	at java.lang.ClassLoader$NativeLibrary.load(Native Method)
+	at java.lang.ClassLoader.loadLibrary0(ClassLoader.java:1941)
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1824)
+	at java.lang.Runtime.load0(Runtime.java:809)
+	at java.lang.System.load(System.java:1086)
+	at com.sun.jna.Native.loadNativeDispatchLibraryFromClasspath(Native.java:761)
+	at com.sun.jna.Native.loadNativeDispatchLibrary(Native.java:736)
+	at com.sun.jna.Native.<clinit>(Native.java:131)
+	at org.openqa.selenium.os.Kernel32.<clinit>(Kernel32.java:34)
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:133)
+	at org.openqa.selenium.os.ProcessUtils.killProcess(ProcessUtils.java:81)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.destroyHarder(UnixProcess.java:247)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.access$200(UnixProcess.java:201)
+	at org.openqa.selenium.os.UnixProcess.destroy(UnixProcess.java:125)
+	at org.openqa.selenium.os.CommandLine.destroy(CommandLine.java:155)
+	at org.openqa.selenium.remote.service.DriverService.stop(DriverService.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:94)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:644)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+	at com.immidart.skypassTravel.genericLibrary.Driver.closeBrowser(Driver.java:67)
+	at com.immidart.skypassTravel.ManualRequestTest.afterTest(ManualRequestTest.java:58)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:100)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:216)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:143)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:115)
+	at org.testng.TestRunner.privateRun(TestRunner.java:746)
+	at org.testng.TestRunner.run(TestRunner.java:600)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1264)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1189)
+	at org.testng.TestNG.runSuites(TestNG.java:1104)
+	at org.testng.TestNG.run(TestNG.java:1076)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:126)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:152)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:57)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.UnsatisfiedLinkError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.immidart.skypassTravel.ManualRequestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
