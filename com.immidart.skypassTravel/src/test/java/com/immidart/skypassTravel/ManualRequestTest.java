@@ -13,7 +13,7 @@ import com.immidart.skypassTravel.businessLibrary.LogoutFromApplicationLib;
 import com.immidart.skypassTravel.businessLibrary.OperationTrackerSearchLib;
 import com.immidart.skypassTravel.genericLibrary.Driver;
 
- // Create manual test
+ // Create manual test comment 
 
 @Listeners(com.immidart.skypassTravel.genericLibrary.Listener.class)
 public class ManualRequestTest {
